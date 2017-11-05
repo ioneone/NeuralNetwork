@@ -9,3 +9,4 @@ I summarized the logic and implementation [here](https://medium.com/@ionejunhong
 * [Multi-layered neural network](https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a)
 * [Python list weird behavior](https://stackoverflow.com/questions/2739552/2d-list-has-weird-behavor-when-trying-to-modify-a-single-value)
 * [Matrix in Java](https://introcs.cs.princeton.edu/java/95linear/Matrix.java.html)
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
