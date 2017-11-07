@@ -1,5 +1,6 @@
 # NeuralNetwork
 Creating neural network from scratch in python.
+
 <img width="349" alt="screen shot 2017-11-06 at 10 32 53 pm" src="https://user-images.githubusercontent.com/21322866/32480236-7610e676-c342-11e7-801a-6c90823ad5ba.png">
 
 # How it works
